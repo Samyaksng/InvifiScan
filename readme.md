@@ -74,8 +74,6 @@ PORT     STATE   SERVICE
 ## Contributing 🤝
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-## License 📄
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 - Thanks to the Scapy team for providing an excellent library for network packet manipulation.
